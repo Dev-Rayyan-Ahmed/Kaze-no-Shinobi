@@ -1,6 +1,8 @@
-# Kaze no Shinobi 🥷
+# Kaze no Shinobi 
 
-![Kaze no Shinobi Thumbnail](INSERT_THUMBNAIL_IMAGE_LINK_HERE)
+<p align="center">
+  <img src="readme_thumbnail/Kazeeee.png" width="600">
+</p>
 
 > **A 2D Ninja Platformer built with Python and Pygame.**
 
